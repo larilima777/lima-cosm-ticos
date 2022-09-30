@@ -1,4 +1,20 @@
-p {
-    color: red;
-    text-align: center;
+
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color:
+}
+
+Estilizar o título principal do seu site:
+ h1{
+color:green… ;
+font-family:sans-serif,;
+background:black, ;
+}
+
+Estilizar os parágrafos:
+p{
+color: ;
+font-family: ;
+font-size: ;
+background: ;
 }
